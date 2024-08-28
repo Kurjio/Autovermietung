@@ -76,4 +76,4 @@ auf "google-services.json herunterladen" klicken
 
 die json nun in den app ordner ziehen wie auf bild abgebildet 
 
-Neustarten nun sollte alles gehen
+Neustarten nun sollte alles gehen https://www.youtube.com/watch?v=Vl7VFoNWh6Y
